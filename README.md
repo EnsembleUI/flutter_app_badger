@@ -1,4 +1,4 @@
-# Flutter App Badger plugin (UNMAINTAINED)
+# Flutter App Badger plugin 
 
 [![Pub](https://img.shields.io/pub/v/flutter_app_badger.svg)](https://pub.dartlang.org/packages/flutter_app_badger)
 
