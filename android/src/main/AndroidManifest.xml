@@ -1,6 +1,3 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    package="fr.ppprakhar.flutterappbadge.flutterappbadger">
-
-    <application tools:replace="android:label" />
+  package="fr.g123k.flutterappbadge.flutterappbadger">
 </manifest>
